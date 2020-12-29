@@ -1,0 +1,39 @@
+@charset "UTF-8";
+/* CSS Document */
+
+h2 {
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	margin: 0;
+	font-size: 20px;
+	padding: 14px;
+}
+
+body {
+	background: linear-gradient(#EFEFEF,#EAEAEA);
+	background-repeat: no-repeat;
+	padding: 0;
+	margin: 0;
+}
+
+.nav-tab {
+	align-content: center
+}
+
+.nav-tab-text {
+	font-weight: 500;
+	font-size: 18px;
+	color: #353535;
+	padding: 10px 15px 10px 15px;
+	border-radius: 10px;
+	text-decoration: none;
+}
+
+.nav-tab-text:hover {
+	background-color: #CFCFCF;
+	transition: background-color 0.3s ease-in-out;
+}
+
+.nav-bar {
+	background: linear-gradient(#222222,#EAEAEA);
+	
+}
